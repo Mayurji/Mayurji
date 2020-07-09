@@ -15,6 +15,6 @@
     
 #### Reach Me
 
-   ![LinkedIn](http://linkedin.com/in/mayur-jain-software-engineer/)
-   ![Medium](https://medium.com/@mayur87545)
-   ![Twitter](https://twitter.com/mayur__22/)
+ [LinkedIn](http://linkedin.com/in/mayur-jain-software-engineer/)
+ [Medium](https://medium.com/@mayur87545)
+ [Twitter](https://twitter.com/mayur__22/)
