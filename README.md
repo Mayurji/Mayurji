@@ -10,13 +10,13 @@
 
 #### About Me
 
-   * I am a Avid Reader.
-   * I love my work.
-   * I work on Machine & Deep Learning.
-   * I believe in hard work and always to open learn.
-   * I believe, AI is the revolution, that is meant to change the world.
-   * I love Nature.
-   * I am curious about Time Travel & Conspiracy Theory.
+   * I am a Avid Reader📖.
+   * I love my work👨🏼‍💼.
+   * I work on Machine & Deep Learning📈.
+   * I believe in hard work and always to open learn✍🏻.
+   * I believe, AI is the revolution, that is meant to change the world🌏.
+   * I love Nature🏔.
+   * I am curious about Time Travel & Conspiracy Theory⏳.
    
 #### Favorite Book
    * Sapiens By Yuval Noah Harari
