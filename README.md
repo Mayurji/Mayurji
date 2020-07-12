@@ -1,6 +1,6 @@
 ### Mayur
 
-#### Work Experience
+#### Work
 
    >**I am Data Scientist with working experience on multiple domains like Logistics,Telecom and Social Media platforms. I am open to collaboration on projects in ML and DL. Check out my repositiories on Computer Vision and Machine Learning.**
    
