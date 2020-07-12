@@ -2,7 +2,7 @@
 
 #### Work Experience
 
-   >I started my career as Big Data Engineer in 2014 and moved to Analytics after couple of years. I have been working on Analytics since then, I have worked on multiple domains like Logistics, Telecom and Social Media platforms. I open to collaboration on projects in ML and DL.
+   >**I am Data Scientist with working experience on multiple domains like Logistics,Telecom and Social Media platforms. I am open to collaboration on projects in ML and DL. Check out my repositiories on Computer Vision and Machine Learning.**
    
 #### How I Spend My Time
    * I spend majority of my free time on learning Deep Learning & Implementing DL architectures. 
@@ -11,9 +11,8 @@
 #### About Me
 
    * I am a Avid Reader📖.
-   * I love my work👨🏼‍💼.
-   * I work on Machine & Deep Learning📈.
-   * I believe in hard work and always to open learn✍🏻.
+   * I love my work👨🏼‍💼 on Machine & Deep Learning📈.
+   * I believe in hard work and, always open to learning✍🏻.
    * I believe, AI is the revolution, that is meant to change the world🌏.
    * I love Nature🏔.
    * I am curious about Time Travel & Conspiracy Theory⏳.
