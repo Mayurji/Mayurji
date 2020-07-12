@@ -12,7 +12,7 @@
 
    * I am a Avid Reader📖.
    * I love my work👨🏼‍💼 on Machine & Deep Learning📈.
-   * I believe in hard work and, always open to learning✍🏻.
+   * I believe in hard work and always open to learning✍🏻.
    * I believe, AI is the revolution, that is meant to change the world🌏.
    * I love Nature🏔.
    * I am curious about Time Travel & Conspiracy Theory⏳.
