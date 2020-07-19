@@ -2,11 +2,11 @@
 
 #### Work
 
-   >**I am Data Scientist with working experience on multiple domains like Logistics,Telecom and Social Media platforms. I am open to collaboration on projects in ML and DL. Check out my repositiories on Computer Vision and Machine Learning.**
+   >**I am Data Scientist with working experience on multiple domains like Logistics,Telecom and Social Media platforms. I am open to collaboration on projects in ML and DL. Check out my repositories on Computer Vision and Machine Learning.**
    
 #### How I Spend My Time
-   * I spend majority of my free time on learning Deep Learning & Implementing DL architectures. 
-   * I am learning Pytorch now. Would love it, if anyone wants to collaborate and sharing the learning experience. 
+   * A vast amount of my time is spent on reading and experimenting with Deep Learning.
+   * I am learning Pytorch now. Would love it, if anyone wants to collaborate and sharing the learning experience.
 
 #### About Me
 
