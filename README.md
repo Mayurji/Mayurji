@@ -19,9 +19,6 @@
    
 #### Favorite Book
    * Sapiens By Yuval Noah Harari
-
-#### Favorite Show
-   * Breaking Bad
     
 #### Get In Touch
 
