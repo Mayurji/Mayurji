@@ -1,5 +1,5 @@
 ### Mayur
-![Neuron](Mayurji/cpp_multithreading_mysql/neuron.jpg)
+![Neuron](cpp_multithreading_mysql/neuron.jpg)
 
 #### Work
 
