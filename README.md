@@ -1,5 +1,4 @@
-### Mayur
-![Neuron](https://www.analyticsindiamag.com/wp-content/uploads/2018/11/green-neuron-synapse-network-3d-animation-infinite-loop-inside-the-human-brain_rsahv9t8e_thumbnail-full07.png)
+### Hi there ! I am Mayur :)
 
 #### Work
 
