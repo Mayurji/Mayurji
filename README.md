@@ -1,5 +1,5 @@
 ### Mayur
-![Neuron](https://www.verywellmind.com/thmb/ZX1Vy8gEJgL6bgtoUQs7aKh2L2Q=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/172594468-56a793465f9b58b7d0ebd64b.jpg)
+![Neuron](https://www.analyticsindiamag.com/wp-content/uploads/2018/11/green-neuron-synapse-network-3d-animation-infinite-loop-inside-the-human-brain_rsahv9t8e_thumbnail-full07.png)
 
 #### Work
 
