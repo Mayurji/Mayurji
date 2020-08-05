@@ -13,8 +13,8 @@
    * I work as Data Scientist📈 in morning👨🏼‍💼 and switch to Deep Learning Researcher📚 at night.
    * I breakdown DL research papers for normal human reader :)
    * I am open to collaboration on projects in ML and DL.
-   * I am a Avid Reader📖.
-   * I believe in hard work and always open to learning✍🏻.
+   * I am an Avid Reader📖.
+   * I believe in Hard work and always open to learning✍🏻.
    * I believe, AI is the revolution, that is meant to change the world🌏.
    * I love Nature🏔.
    * I am curious about Time Travel & Conspiracy Theory⏳.
