@@ -10,7 +10,7 @@
 
 #### About Me
 
-   * I work as Data Scientist📈 in morning👨🏼‍💼 and switch to Deep Learning Researcher📚 at night.
+   * I start my day as Data Scientist📈👨🏼‍💼 and end my day with Deep Learning Research📚 at night.
    * I breakdown DL research papers for normal human reader :)
    * I am open to collaboration on projects in ML and DL.
    * I am an Avid Reader📖.
