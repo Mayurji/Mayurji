@@ -11,7 +11,7 @@
 #### About Me
 
    * I start my day as Data Scientist📈👨🏼‍💼 and end my day with Deep Learning Research📚 at night.
-   * I breakdown DL research papers for normal human reader :)
+   * I read DL research papers in my free time.
    * I am open to collaboration on projects in ML and DL.
    * I am an Avid Reader📖.
    * I believe in Hard work and always open to learning✍🏻.
