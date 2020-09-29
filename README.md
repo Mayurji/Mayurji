@@ -2,7 +2,7 @@
 
 #### Work
 
-   >**I am a Data Scientist with working experience on multiple domains like Logistics, Telecom and Social Media platforms. I have built systems from Product Image classification to text understanding for better customer experience. I have started reading and implementing deep learning research papers.**  
+   **I am a Data Scientist with working experience on multiple domains like Logistics, Telecom and Social Media platforms. I have built systems from Fine grained for product image classification to text understanding for better customer experience.**  
    
 #### How I Spend My Time
    * A vast amount of my time is spent on reading and experimenting with Deep Learning.
