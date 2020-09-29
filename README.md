@@ -6,7 +6,7 @@
    
 #### How I Spend My Time
    * A vast amount of my time is spent on reading and experimenting with Deep Learning.
-   * I am learning Pytorch now. Would love it, if anyone wants to collaborate and sharing the learning experience.
+   * I have built a expertise in Pytorch. Would love it, if anyone wants to collaborate and sharing the learning experience.
 
 #### About Me
 
