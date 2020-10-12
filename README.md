@@ -13,8 +13,7 @@
    * I am open to collaboration on projects in ML and DL.
    * I am an Avid Reader📖.
    * I believe in Hard work and always open to learning✍🏻.
-   * I believe, AI is the revolution, that is meant to change the world🌏.
-   * I love Nature🏔.
+   * I love Nature🏔 and save 🌏 from Climate Change.
    * I am curious about Time Travel & Conspiracy Theory⏳.
    
 #### Favorite Book
