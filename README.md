@@ -2,11 +2,9 @@
 
 ### What I do
 
-   **I am a Data Scientist with working experience on multiple domains like Logistics, Telecom and Social Media platforms. I have built systems from Fine grained for product image classification to text understanding for better customer experience.**  
-   
-### How I do 
-   * A vast amount of my time is spent on reading and experimenting with Deep Learning.
-   * I have built a expertise in Pytorch. Would love it, if anyone wants to collaborate and sharing the learning experience.
+   * **I am a Data Scientist with working experience on multiple domains like Logistics, Telecom and Social Media platforms. I have built systems from Fine grained for product image classification to text understanding for better customer experience.**  
+   * **A vast amount of my time is spent on reading and experimenting with Deep Learning.**
+   * **I have built a expertise in Pytorch. Would love it, if anyone wants to collaborate and sharing the learning experience.**
 
 ### About Me
 
