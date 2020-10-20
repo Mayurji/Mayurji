@@ -19,12 +19,6 @@
 #### Favorite Book
    * Sapiens By Yuval Noah Harari
     
-#### Get In Touch
+#### Wanna Talk 
 
- [LinkedIn](http://linkedin.com/in/mayur-jain-software-engineer/)
- 
- [Medium](https://medium.com/@mayur87545)
- 
- [Twitter](https://twitter.com/mayur__22/)
- 
- [Kaggle](https://www.kaggle.com/mayurjain)
+ [LinkedIn](http://linkedin.com/in/mayur-jain-software-engineer/) | [Medium](https://medium.com/@mayur87545) | [Twitter](https://twitter.com/mayur__22/) | [Kaggle](https://www.kaggle.com/mayurjain)
