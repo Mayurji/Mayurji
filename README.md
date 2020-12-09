@@ -1,7 +1,7 @@
 ## Hi there ! I am Mayur :)
 
-   * I start my day as Data Scientist📈👨🏼‍💼 and end my day with Deep Learning Research📚 at night.
-   * I read DL research papers in my free time.
+   * I start my day as Data Scientist📈👨🏼‍💼.
+   * I read DL research papers 📚 in my free time.
    * I am open to collaboration on projects in ML and DL.
    * I am an Avid Reader📖.
    * I believe in Hard work and always open to learning✍🏻.
@@ -13,4 +13,4 @@
     
 ## Wanna Talk 
 
- [LinkedIn](http://linkedin.com/in/mayur-jain-software-engineer/) | [Medium](https://medium.com/@mayur87545) | [Twitter](https://twitter.com/mayur__22/) | [Kaggle](https://www.kaggle.com/mayurjain)
+ [LinkedIn](http://linkedin.com/in/mayur-jain-ds/) | [Medium](https://medium.com/@mayur87545) | [Twitter](https://twitter.com/mayur__22/) | [Kaggle](https://www.kaggle.com/mayurjain)
