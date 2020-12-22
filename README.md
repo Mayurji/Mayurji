@@ -5,7 +5,7 @@
    * I am open to collaboration on projects in ML and DL.
    * I am an Avid Reader📖, Great Listener and Keen Observer.
    * I believe in Hard work and always open to learning✍🏻.
-   * I love Nature🏔 and 🌏 Climate Change is real.
+   * I love Nature🏔.
    * I am curious about Time Travel & Conspiracy Theory⏳.
    
 ## Favorite Book
