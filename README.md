@@ -4,7 +4,7 @@ I'm a Machine Learning Engineer from India who loves writing articles and contri
 
    * 👨💻 Currently working and growing my skillset in Machine Learning and Data Science.
    * 🤝 Open for collaborations regarding technical articles and Machine Learning projects.
-   * **☑** Visit my [website](mayurji.github.io/) for more information.
+   * **☑** Visit my [website](https://mayurji.github.io/) for more information.
 
 ## Favorite Book
    * Sapiens By Yuval Noah Harari
