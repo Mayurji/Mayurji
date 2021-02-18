@@ -18,4 +18,4 @@ I'm a Machine Learning Engineer from India who loves writing articles and contri
  [LinkedIn](http://linkedin.com/in/mayur-jain-ds/) | [Medium](https://medium.com/@mayur87545) | [Twitter](https://twitter.com/mayur__22/) | [Kaggle](https://www.kaggle.com/mayurjain)
  
  ![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurji&count_private=true&show_icons=true&theme=radical)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
