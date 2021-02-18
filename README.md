@@ -1,6 +1,6 @@
 ## Hi there ! I am Mayur :)
 
-I'm a Machine Learning Engineer from India who loves writing articles and contributing to open source.
+I'm a Machine Learning Engineer who likes to work on deep learning for exploring how my graduation math works and understand the power of compute.
 
    * 👨💻 Currently working and growing my skillset in Machine Learning and Data Science.
    * 🤝 Open for collaborations regarding technical articles and Machine Learning projects.
