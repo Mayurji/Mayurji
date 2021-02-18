@@ -1,13 +1,11 @@
 ## Hi there ! I am Mayur :)
 
-   * I start my day as Data Scientist📈👨🏼‍💼.
-   * I read DL research papers 📚 in my free time.
-   * I am open to collaboration on projects in ML and DL.
-   * I am an Avid Reader📖, Great Listener and Keen Observer.
-   * I believe in Hard work and always open to learning✍🏻.
-   * I love Nature🏔.
-   * I am curious about Time Travel & Conspiracy Theory⏳.
-   
+I'm a Machine Learning Engineer from India who loves writing articles and contributing to open source.
+
+    👨🏽‍💻 Currently working and growing my skillset in Machine Learning and Data Science
+    handshake Open for collaborations regarding technical articles and Machine Learning projects
+    globe_with_meridians Visit my [website](mayurji.github.io/) for more information
+
 ## Favorite Book
    * Sapiens By Yuval Noah Harari
     
