@@ -16,3 +16,5 @@ I'm a Machine Learning Engineer from India who loves writing articles and contri
 ## Wanna Talk 
 
  [LinkedIn](http://linkedin.com/in/mayur-jain-ds/) | [Medium](https://medium.com/@mayur87545) | [Twitter](https://twitter.com/mayur__22/) | [Kaggle](https://www.kaggle.com/mayurjain)
+ 
+ ![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurji&hide=stars,commits,prs,issues,contribs)
