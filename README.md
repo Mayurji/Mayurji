@@ -8,6 +8,10 @@ I'm a Machine Learning Engineer from India who loves writing articles and contri
 
 ## Favorite Book
    * Sapiens By Yuval Noah Harari
+
+## Latest Blog Post:
+   * 📑 [Supervised Learning](https://mayurji.github.io/machine-learning/Supervised%20Learning)
+   * 📑 [Machine Learning Concepts](https://mayurji.github.io/machine-learning/2020-11-06-machine-learning-III)
     
 ## Wanna Talk 
 
