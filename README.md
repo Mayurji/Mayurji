@@ -10,9 +10,11 @@ I'm a Machine Learning Engineer who likes to work on deep learning for exploring
    * Sapiens By Yuval Noah Harari
 
 ## Latest Blog Post:
-   * 📑 [Introduction to Sampling](https://mayurji.github.io/machine-learning/Sampling)
-   * 📑 [Deep Dive into Loss Function](https://mayurji.github.io/machine-learning/Loss%20Functions)
-   * 📑 [Machine Learning - Supervised Learning](https://mayurji.github.io/machine-learning/Supervised%20Learning)
+   * 📑 [Keepsake - A Version Control For Machine Learning](mayurji.github.io/machine-learning/keepsake)
+   * 📑 [How To Mitigate Class Imbalance](https://mayurji.github.io/machine-learning/class_imbalance_2)
+   * 📑 [Deep Dive Into Class Imbalance](mayurji.github.io/machine-learning/class_imbalance)
+   
+  
    
 ## Wanna Talk 
 
