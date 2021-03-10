@@ -10,9 +10,9 @@ I'm a Machine Learning Engineer who likes to work on deep learning for exploring
    * Sapiens By Yuval Noah Harari
 
 ## Latest Blog Post:
-   * 📑 [Keepsake - A Version Control For Machine Learning](mayurji.github.io/machine-learning/keepsake)
+   * 📑 [Keepsake - A Version Control For Machine Learning](https://mayurji.github.io/machine-learning/keepsake)
    * 📑 [How To Mitigate Class Imbalance](https://mayurji.github.io/machine-learning/class_imbalance_2)
-   * 📑 [Deep Dive Into Class Imbalance](mayurji.github.io/machine-learning/class_imbalance)
+   * 📑 [Deep Dive Into Class Imbalance](https://mayurji.github.io/machine-learning/class_imbalance)
    
   
    
