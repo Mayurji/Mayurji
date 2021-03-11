@@ -5,6 +5,7 @@ I'm a Machine Learning Engineer who likes to work on deep learning for exploring
    * 👨💻 Currently working and growing my skillset in Machine Learning and Data Science.
    * 🤝 Open for collaborations regarding technical articles, Machine Learning and Deep Learning projects.
    * **☑** Visit my [website](https://mayurji.github.io/) for more information.
+   * I am tool experimenter, helps in knowing the best from the rest.
 
 ## Favorite Book
    * Sapiens By Yuval Noah Harari
@@ -13,7 +14,6 @@ I'm a Machine Learning Engineer who likes to work on deep learning for exploring
    * 📑 [Keepsake - A Version Control For Machine Learning](https://mayurji.github.io/machine-learning/keepsake)
    * 📑 [How To Mitigate Class Imbalance](https://mayurji.github.io/machine-learning/class_imbalance_2)
    * 📑 [Deep Dive Into Class Imbalance](https://mayurji.github.io/machine-learning/class_imbalance)
-   
   
    
 ## Wanna Talk 
