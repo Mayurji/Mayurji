@@ -22,4 +22,3 @@ I'm a Machine Learning Engineer who likes to work on deep learning for exploring
  
  ![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurji&count_private=true&show_icons=true&theme=radical)
  
-<iframe src="https://mlguy.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
