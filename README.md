@@ -1,6 +1,6 @@
-## Hi there ! I am Mayur :)
+## Hi there ! I am Mayur :) ![](https://komarev.com/ghpvc/?username=Mayurji)
 
-![](https://komarev.com/ghpvc/?username=Mayurji)
+
 
 I'm a Machine Learning Engineer who likes to work on deep learning for exploring how my graduation math works and understand the power of compute.
 
