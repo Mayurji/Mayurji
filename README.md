@@ -1,5 +1,7 @@
 ## Hi there ! I am Mayur :)
 
+![](https://komarev.com/ghpvc/?username=Mayurji)
+
 I'm a Machine Learning Engineer who likes to work on deep learning for exploring how my graduation math works and understand the power of compute.
 
    * 👨💻 Currently working and growing my skillset in Machine Learning and Data Science.
