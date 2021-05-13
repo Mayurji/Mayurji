@@ -2,7 +2,7 @@
 
 
 
-I'm a Machine Learning Engineer who likes to work on deep learning for exploring how my graduation math works and understand the power of compute.
+I'm a Machine Learning Engineer with keen interest in deep learning. Exploring how my graduation math works and understand the power of compute.
 
    * 👨💻 Currently working and growing my skillset in Machine Learning and Data Science.
    * 🤝 Open for collaborations regarding technical articles, Machine Learning and Deep Learning projects.
