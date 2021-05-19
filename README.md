@@ -8,7 +8,7 @@ I'm a Machine Learning Engineer with keen interest in deep learning. Exploring h
    * 🤝 Open for collaborations regarding technical articles, Machine Learning and Deep Learning projects.
    * **☑** Visit my [website](https://mayurji.github.io/) for more information.
    * I am tool experimenter, helps in knowing the best from the rest.
-     -- Experiment Management Tool  
+     - Experiment Management Tool  
 
 ## Favorite Book
    * Sapiens By Yuval Noah Harari
