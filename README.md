@@ -9,8 +9,8 @@ I'm a Machine Learning Engineer with keen interest in deep learning. Exploring h
    * **☑** Visit my [website](https://mayurji.github.io/) for more information.
    * I am tool experimenter, helps in knowing the best from the rest.
      * Experiment Management Tool  
-       - [Keepsake](https://github.com/Mayurji/Playing-with-Keepsake)
-       - MLflow to updated
+       - [Keepsake](https://github.com/Mayurji/Tool-Experimentation/tree/main/Keepsake)
+       - [MLflow](https://github.com/Mayurji/Tool-Experimentation/tree/main/MLflow)
 
 ## Favorite Book
    * Sapiens By Yuval Noah Harari
