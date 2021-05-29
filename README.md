@@ -11,6 +11,9 @@ I'm a Machine Learning Engineer with keen interest in deep learning. Exploring h
      * Experiment Management Tool  
        - [Keepsake](https://github.com/Mayurji/Tool-Experimentation/tree/main/Keepsake)
        - [MLflow](https://github.com/Mayurji/Tool-Experimentation/tree/main/MLflow)
+       - [FastAPI](https://github.com/Mayurji/Model-Deployment/tree/master/Fastapi-Deployment)
+       - [Sanic](https://github.com/Mayurji/Model-Deployment/tree/master/Sanic-Deployment)
+       - [Flask](https://github.com/Mayurji/Model-Deployment/tree/master/Flask-Deployment)
 
 ## Favorite Book
    * Sapiens By Yuval Noah Harari
