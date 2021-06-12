@@ -26,10 +26,6 @@ I'm a Machine Learning Engineer with keen interest in deep learning. Exploring h
    * 📑 [Version Control System - Git](https://mayurji.github.io/blog/2021/04/01/VCS)
    * 📑 [Transformers - Visual Guide](https://mayurji.github.io/deep-learning/transformers)
    
-   
-   
-  
-   
 ## Wanna Talk 
 
  [LinkedIn](http://linkedin.com/in/mayur-jain-ds/) | [Medium](https://medium.com/@mayur87545) | [Twitter](https://twitter.com/mayur__22/) | [Kaggle](https://www.kaggle.com/mayurjain)
