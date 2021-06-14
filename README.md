@@ -7,7 +7,7 @@ I'm a Machine Learning Engineer with keen interest in deep learning. Exploring h
    * 👨💻 Currently working and growing my skillset in Machine Learning and Data Science.
    * 🤝 Open for collaborations regarding technical articles, Machine Learning and Deep Learning projects.
    * **☑** Visit my [website](https://mayurji.github.io/) for more information.
-   * I am tool experimenter, helps in knowing the best from the rest.
+   * I like experimenting with tools, some of the tools I've tried out
      * Tools
        - [Keepsake](https://github.com/Mayurji/Tool-Experimentation/tree/main/Keepsake)
        - [MLflow](https://github.com/Mayurji/Tool-Experimentation/tree/main/MLflow)
