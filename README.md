@@ -18,6 +18,8 @@ I'm a Machine Learning Engineer with keen interest in deep learning. Exploring h
        - [Sanic](https://github.com/Mayurji/Model-Deployment/tree/master/Sanic-Deployment)
        - [Flask](https://github.com/Mayurji/Model-Deployment/tree/master/Flask-Deployment)
 
+![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurji&count_private=true&show_icons=true&theme=radical)
+
 ## Favorite Book
    * Sapiens By Yuval Noah Harari
 
@@ -30,5 +32,5 @@ I'm a Machine Learning Engineer with keen interest in deep learning. Exploring h
 
  [LinkedIn](http://linkedin.com/in/mayur-jain-ds/) | [Medium](https://medium.com/@mayur87545) | [Twitter](https://twitter.com/mayur__22/) | [Kaggle](https://www.kaggle.com/mayurjain)
  
- ![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurji&count_private=true&show_icons=true&theme=radical)
+ 
  
