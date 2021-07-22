@@ -1,7 +1,6 @@
 ## Hi there ! I am Mayur :) ![](https://komarev.com/ghpvc/?username=Mayurji)
 
 
-
 I'm a Machine Learning Engineer with keen interest in deep learning. Exploring how my graduation math works and understanding the power of compute.
 
    * 👨💻 Currently working and growing my skillset in Machine Learning and Data Science.
@@ -13,10 +12,10 @@ I'm a Machine Learning Engineer with keen interest in deep learning. Exploring h
        - [MLflow](https://github.com/Mayurji/Tool-Experimentation/tree/main/MLflow)
        - [Celery](https://github.com/Mayurji/Tool-Experimentation/tree/main/MLops%20-%20ML%20%2B%20Flask%20%2B%20Celery)
      
-     * API Tools
+     <!--* API Tools
        - [FastAPI](https://github.com/Mayurji/Model-Deployment/tree/master/Fastapi-Deployment)
        - [Sanic](https://github.com/Mayurji/Model-Deployment/tree/master/Sanic-Deployment)
-       - [Flask](https://github.com/Mayurji/Model-Deployment/tree/master/Flask-Deployment)
+       - [Flask](https://github.com/Mayurji/Model-Deployment/tree/master/Flask-Deployment)-->
 
 ![Mayur's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayurji&count_private=true&show_icons=true&theme=radical)
 
