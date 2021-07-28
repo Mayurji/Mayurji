@@ -3,7 +3,7 @@
 
 I'm a Machine Learning Engineer with keen interest in deep learning. Exploring how my graduation math works and understanding the power of compute.
 
-   * 👨💻 Currently working and growing my skillset in Machine Learning and Data Science.
+   * 👨💻 Currently working and growing my skillset in Machine Learning and Deep Learning.
    * 🤝 Open for collaborations regarding technical articles, Machine Learning and Deep Learning projects.
    * **☑** Visit my [website](https://mayurji.github.io/) for more information.
    * I like experimenting with tools, some of the tools I've tried out
