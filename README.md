@@ -4,6 +4,7 @@
 I'm a Machine Learning Engineer with keen interest in deep learning. Exploring how my graduation math works and understanding the power of compute.
 
    * 👨💻 Currently working and growing my skillset in Machine Learning and Deep Learning.
+   * To technical recuriters, I am looking for Machine Learning or Deep Learning Research Role.
    * 🤝 Open for collaborations regarding technical articles, Machine Learning and Deep Learning projects.
    * **☑** Visit my [website](https://mayurji.github.io/) for more information.
    * I like experimenting with tools, some of the tools I've tried out
@@ -33,6 +34,3 @@ I'm a Machine Learning Engineer with keen interest in deep learning. Exploring h
 ## Wanna Talk 
 
  [LinkedIn](http://linkedin.com/in/mayur-jain-ds/) | [Medium](https://medium.com/@mayur87545) | [Twitter](https://twitter.com/mayur__22/) | [Kaggle](https://www.kaggle.com/mayurjain)
- 
- 
- 
