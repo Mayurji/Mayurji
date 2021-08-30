@@ -33,4 +33,4 @@ I'm a Machine Learning Engineer with keen interest in deep learning. Exploring h
 
 ## Wanna Talk 
 
- [LinkedIn](http://linkedin.com/in/mayur-jain-ds/) | [Medium](https://medium.com/@mayur87545) | [Twitter](https://twitter.com/mayur__22/) | [Kaggle](https://www.kaggle.com/mayurjain) | 
+ [LinkedIn](http://linkedin.com/in/mayur-jain-ds/) | [Medium](https://medium.com/@mayur87545) | [Twitter](https://twitter.com/mayur__22/) | [Kaggle](https://www.kaggle.com/mayurjain) | ![](<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'R5R034R0F');kofiwidget2.draw();</script>)
