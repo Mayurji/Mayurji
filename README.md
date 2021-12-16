@@ -1,6 +1,11 @@
 ## Hi there ! I am Mayur :) ![](https://komarev.com/ghpvc/?username=Mayurji)
 
 
+![GitHub stars](https://img.shields.io/github/stars/Mayurji?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Mayurji?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Mayurji?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Mayurji?style=social)
+
 I'm a Machine Learning Engineer with keen interest in deep learning. Exploring how my graduation math works and understanding the power of compute.
 
    * 👨💻 Currently working and growing my skillset in Machine Learning and Deep Learning.
