@@ -6,13 +6,14 @@ I'm a Machine Learning Engineer with keen interest in deep learning. Exploring h
    * **To technical recuriters, I am looking for Machine Learning or Deep Learning Research Role.**
    * 🤝 Open for collaborations regarding technical articles, Machine Learning and Deep Learning projects.
    * **☑** Visit my [website](https://mayurji.github.io/) for more information.
+   <!--* API Tools
    * I like experimenting with tools, some of the tools I've tried out
      * Tools
        - [Keepsake](https://github.com/Mayurji/Tool-Experimentation/tree/main/Keepsake)
        - [MLflow](https://github.com/Mayurji/Tool-Experimentation/tree/main/MLflow)
        - [Celery](https://github.com/Mayurji/Tool-Experimentation/tree/main/MLops%20-%20ML%20%2B%20Flask%20%2B%20Celery)
      
-     <!--* API Tools
+     
        - [FastAPI](https://github.com/Mayurji/Model-Deployment/tree/master/Fastapi-Deployment)
        - [Sanic](https://github.com/Mayurji/Model-Deployment/tree/master/Sanic-Deployment)
        - [Flask](https://github.com/Mayurji/Model-Deployment/tree/master/Flask-Deployment)
