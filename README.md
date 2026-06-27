@@ -4,23 +4,16 @@ I'm a Machine Learning Engineer with keen interest in deep learning. Exploring h
 
    * 👨💻 Currently working and growing my skillset in Machine Learning and Deep Learning.
    * 🤝 Open for collaborations regarding technical articles, Machine Learning and Deep Learning projects.
+   * If you're preparing for your interviews: Read [Machine Learning Interview Playbook](https://mayurmle.gumroad.com/l/khljpm)
    * **☑** Visit my [website](https://mayurji.github.io/) for more information.
    <!--* API Tools
    * I like experimenting with tools, some of the tools I've tried out
      * Tools
-       - [Keepsake](https://github.com/Mayurji/Tool-Experimentation/tree/main/Keepsake)
        - [MLflow](https://github.com/Mayurji/Tool-Experimentation/tree/main/MLflow)
        - [Celery](https://github.com/Mayurji/Tool-Experimentation/tree/main/MLops%20-%20ML%20%2B%20Flask%20%2B%20Celery)
-     
-     
        - [FastAPI](https://github.com/Mayurji/Model-Deployment/tree/master/Fastapi-Deployment)
        - [Sanic](https://github.com/Mayurji/Model-Deployment/tree/master/Sanic-Deployment)
-       - [Flask](https://github.com/Mayurji/Model-Deployment/tree/master/Flask-Deployment)
-  
-      ## Latest Blog Post:
-         * 📑 [Unsupervised Learning](mayurji.github.io/machine-learning/unsupervised%20Learning)
-         * 📑 [Version Control System - Git](https://mayurji.github.io/blog/2021/04/01/VCS)
-         * 📑 [Transformers - Visual Guide](https://mayurji.github.io/deep-learning/transformers)      
+       - [Flask](https://github.com/Mayurji/Model-Deployment/tree/master/Flask-Deployment)     
  
       -->
     
